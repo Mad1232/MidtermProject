@@ -1,0 +1,58 @@
+{
+    "shoes": [
+        {
+            "name": "Skyrunners 270",
+            "image": "./Shoes/Shoes1.jpg",
+            "price" : "$159.99",
+            "description": "Experience the ultimate blend of technology and style with our exclusive Cyclone SkyRunners 270. Inspired by the boundless spirit of the Iowa State Cyclones, these sneakers are designed to elevate your style and performance. With an eye-catching blue colorway and the iconic ISU logo, these kicks are not just shoes—they're a statement."
+        },
+        {
+            "name": "Vortex Runners",
+            "image": "./Shoes/Shoes2.jpg",
+            "price" : "$129.99",
+            "description": " Unleash the storm on the tracks with the Cyclone Vortex Runners, designed to echo the dynamic spirit of Iowa State University. These sneakers feature a striking black base complemented by bold red streaks, capturing the Cyclone energy in every step. The ISU logo is prominently emblazoned on each shoe, broadcasting your Cyclone pride with every stride."
+        },
+        {
+            "name": "Cardinal Winter Guardians",
+            "image": "./Shoes/Shoes3.jpg",
+            "price" : "$250.69",
+            "description": "Conquer the chill with the Cardinal Winter Guardians, expertly crafted to embody the fearless spirit of Iowa State University. Radiating warmth in a deep cardinal red, accented with crisp white stripes, these snow boots are a fortress against the frost, boasting the iconic ISU logo as a badge of honor."
+        },
+        {
+            "name": "Summer Breeze Flip-Flops",
+            "image": "./Shoes/Shoes4.jpg",
+            "price" : "$49.99",
+            "description": " Embrace the warm weather with the Cyclone Summer Breeze Flip-Flops, the perfect blend of comfort and ISU pride. These charming pink flip-flops proudly display the Iowa State University logo, merging casual style with school spirit."
+        },
+        {
+            "name": "Cyclone Sprints",
+            "image": "./Shoes/Shoes5.jpg",
+            "price" : "$149.99",
+            "description": " The Cyclone Sprints soccer cleats are engineered for the player who brings the storm to every game. With a blazing orange hue that captures the intensity of the game and the spirit of Iowa State University, these cleats are designed for the best performance. "
+        },
+        {
+            "name": "AirGlide",
+            "image": "./Shoes/Shoes6.jpg",
+            "price" : "$195.50",
+            "description": " Introducing CycloneAir – the epitome of performance meeting school spirit. Inspired by the tenacity of Iowa State University, these sneakers feature the iconic air cushioning of the Air Max 270 line, infused with the bold energy of the Cyclones."
+        },
+        {
+            "name": "Varsity Stride",
+            "image": "./Shoes/Shoes7.jpg",
+            "price" : "$225.80",
+            "description": "VarsityStride encapsulates the spirit of competition and the pride of Iowa State University. A fusion of tradition and modernity, these sneakers are a testament to timeless style and the relentless pursuit of excellence. With their bold yellow and green accents on a crisp white base, they echo the vibrant life on ISU campuses."
+        },
+        {
+            "name": "Campus Classics",
+            "image": "./Shoes/Shoes8.jpg",
+            "price" : "$169.60",
+            "description": "Campus Classics offers a nod to tradition with a sleek, modern twist. These high-top sneakers celebrate the storied heritage of collegiate style while embracing the future. Crafted in a monochromatic silver, they bear the Iowa State University seal as a mark of distinction and academic pride."
+        },
+        {
+            "name": "Ames Runner",
+            "image": "./Shoes/Shoes9.jpg",
+            "price" : "$139.99",
+            "description": "Experience innovation with every step in the Ames Runner, a shoe that captures the progressive spirit of both Iowa State University and its dynamic hometown. These sneakers radiate with a blend of cardinal red and sunset gold, representing the vibrant energy and ambition of Ames"
+        }
+    ]
+}

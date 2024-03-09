@@ -1,0 +1,58 @@
+{
+    "watches": [
+        {
+            "name": "TimeVerse",
+            "image": "./watches/Watch1.jpg",
+            "price" : "$50.75",
+            "description": "A timeless piece of elegance, the TimeVerse watch combines classic design with modern functionality. Crafted with precision and attention to detail, this watch exudes sophistication and style. Elevate your look with this exquisite timepiece, available at an affordable price of $50.75."
+        },
+        {
+            "name": "LuminaChron",
+            "image": "./watches/Watch2.jpg",
+            "price" : "$82.30",
+            "description": " Illuminate your style with the LuminaChron watch. Its sleek design and luminous dial make it perfect for both day and night wear. With a price tag of $82.30, this watch offers both quality and affordability, making it a must-have accessory for any wardrobe."
+        },
+        {
+            "name": "CelestiTime",
+            "image": "./watches/Watch3.jpg",
+            "price" : "$105.90",
+            "description": "Reach for the stars with the CelestiTime watch. Inspired by the celestial beauty of the night sky, this watch features a unique design that sets it apart from the rest. Priced at $105.90, it's a symbol of luxury and refinement that will leave a lasting impression."
+        },
+        {
+            "name": "NovaWatch",
+            "image": "./watches/Watch4.jpg",
+            "price" : "$179.20",
+            "description": " Make a statement with the NovaWatch, a bold and striking timepiece that commands attention. With its distinctive design and premium craftsmanship, this watch is a true masterpiece. At $179.20, it offers exceptional value for money and is sure to become a cherished addition to your collection."
+        },
+        {
+            "name": "ZenithSphere",
+            "image": "./watches/Watch5.jpg",
+            "price" : "$246.75",
+            "description": " Experience the pinnacle of watchmaking with the ZenithSphere watch. Combining precision engineering with exquisite aesthetics, this watch is a symbol of sophistication and class. Priced at $246.75, it's a testament to luxury and refinement that transcends time."
+        },
+        {
+            "name": "InfinityGaze",
+            "image": "./watches/Watch6.jpg",
+            "price" : "$91.50",
+            "description": " Lose yourself in the timeless beauty of the InfinityGaze watch. With its elegant design and graceful curves, this watch exudes charm and elegance. At $91.50, it's a true value for money, offering style and substance in equal measure."
+        },
+        {
+            "name": "SolsticeTide",
+            "image": "./watches/Watch7.jpg",
+            "price" : "$203.80",
+            "description": "Embrace the changing seasons with the SolsticeTide watch. Its unique design captures the essence of nature's beauty, making it a true work of art. Priced at $203.80, it's a testament to quality craftsmanship and timeless style."
+        },
+        {
+            "name": "ChronoGalaxy",
+            "image": "./watches/Watch8.jpg",
+            "price" : "$154.60",
+            "description": "Explore new horizons with the ChronoGalaxy watch. Its innovative features and futuristic design make it a must-have for the modern adventurer. At $154.60, it offers unbeatable value for money and is sure to become your go-to accessory."
+        },
+        {
+            "name": "EclipseChrono",
+            "image": "./watches/Watch9.jpg",
+            "price" : "$69.99",
+            "description": "Step into the future with the EclipseChrono watch. Its sleek design and advanced technology make it perfect for the modern man on the go. Priced at $69.99, it's an affordable luxury that will elevate your style game to new heights."
+        }
+    ]
+}
